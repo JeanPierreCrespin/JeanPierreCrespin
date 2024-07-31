@@ -2,6 +2,12 @@
 
 <img src="https://raw.githubusercontent.com/JeanPierreCrespin/JeanPierreCrespin/main/assets/Banner%20de%20LinkedIn%20Cabecera%20Empresa%20Tecnologia%20Corporativo%20Moderno.png" align="center" alt="Pierre image">
 
+-------------------
+&emsp;
+<h3 align="left">Hola, soy Pierre Crespin. Tengo más de 3 años de experiencia como desarrollador Backend en Java. La tecnología me apasiona desde que era niño, y mi objetivo es utilizar mi conocimiento para ofrecer soluciones a los problemas que enfrentan las personas en un mundo en constante cambio.</h3>
+&emsp;
+
+-------------------
 
 <!--
 **JeanPierreCrespin/JeanPierreCrespin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
