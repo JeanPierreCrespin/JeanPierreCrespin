@@ -8,6 +8,14 @@
 &emsp;
 
 -------------------
+&emsp;
+
+- 🔭 Actualmente trabajo para una consultora como Java Backend SSr.
+- 📚 También estoy  cursando la carrera de Ingeniería de sistemas en la facultad.
+- 🌱 Actualmente estoy aprendiendo React, Docker y en futuro me gustaría trabajar con tecnologías de nube como AWS o AZURE.
+
+
+&emsp;
 
 <!--
 **JeanPierreCrespin/JeanPierreCrespin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
