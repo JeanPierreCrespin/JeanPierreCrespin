@@ -1,5 +1,8 @@
 <h1 align="center">Hola 👋, soy Pierre Crespin</h1>
 
+<img src="https://raw.githubusercontent.com/JeanPierreCrespin/JeanPierreCrespin/main/assets/Banner%20de%20LinkedIn%20Cabecera%20Empresa%20Tecnologia%20Corporativo%20Moderno.png" align="center" alt="Pierre image">
+
+
 <!--
 **JeanPierreCrespin/JeanPierreCrespin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
